@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:14b8a6,100:22d3ee&height=200&section=header&text=Abhishek%20Bhardwaj&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Data%20Engineer%20%C2%B7%20Munich%20%C2%B7%20he%2Fhim&descAlignY=58&descSize=18" width="100%" alt="header banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f766e&text=Abhishek%20Bhardwaj&height=200&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Data%20Engineer%20%C2%B7%20Munich%20%C2%B7%20he%2Fhim&descAlignY=58&descSize=18" width="100%" alt="header banner"/>
 </div>
 
 <div align="center">
@@ -12,9 +12,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-bhardwaj-ai/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:abhishekbhardwajv@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <img src="https://img.shields.io/badge/Munich%2C%20DE-14B8A6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Munich"/>
   <img src="https://komarev.com/ghpvc/?username=ssigmaxx&label=Profile%20views&color=14b8a6&style=for-the-badge" alt="views"/>
@@ -168,5 +165,5 @@ If you're building data infrastructure for the energy transition — or you just
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:14b8a6,100:0f766e&height=100&section=footer" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f766e&height=100&section=footer" width="100%" alt="footer"/>
 </div>
