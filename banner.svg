@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Abhishek Bhardwaj - AI and Data Engineer, Munich">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f766e"/>
+      <stop offset="55%" stop-color="#14b8a6"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .title { font: 700 68px 'Inter','Helvetica Neue',Arial,sans-serif; fill:#ffffff; letter-spacing:-1.2px; }
+      .subtitle { font: 500 22px 'Inter','Helvetica Neue',Arial,sans-serif; fill:#e6fffb; letter-spacing:0.4px; }
+      .dot { fill:#e6fffb; opacity:0.85; }
+      .accent { fill:#f0fdfa; opacity:0.55; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bg)"/>
+
+  <g fill="#ffffff" fill-opacity="0.06">
+    <circle cx="60" cy="40" r="2"/><circle cx="120" cy="40" r="2"/><circle cx="180" cy="40" r="2"/><circle cx="240" cy="40" r="2"/><circle cx="300" cy="40" r="2"/>
+    <circle cx="60" cy="100" r="2"/><circle cx="120" cy="100" r="2"/><circle cx="180" cy="100" r="2"/><circle cx="240" cy="100" r="2"/>
+    <circle cx="1140" cy="40" r="2"/><circle cx="1080" cy="40" r="2"/><circle cx="1020" cy="40" r="2"/><circle cx="960" cy="40" r="2"/>
+    <circle cx="1140" cy="100" r="2"/><circle cx="1080" cy="100" r="2"/>
+  </g>
+
+  <path d="M0,210 C200,180 400,240 600,210 C800,180 1000,240 1200,210 L1200,260 L0,260 Z" fill="url(#wave)"/>
+  <path d="M0,230 C200,205 400,255 600,230 C800,205 1000,255 1200,230 L1200,260 L0,260 Z" fill="#ffffff" fill-opacity="0.08"/>
+
+  <text x="70" y="130" class="title" filter="url(#glow)">Abhishek Bhardwaj</text>
+
+  <g transform="translate(72,168)">
+    <text x="0" y="0" class="subtitle">AI &amp; Data Engineer</text>
+    <circle cx="240" cy="-7" r="3" class="dot"/>
+    <text x="256" y="0" class="subtitle">Greater Munich</text>
+    <circle cx="428" cy="-7" r="3" class="dot"/>
+    <text x="444" y="0" class="subtitle">he / him</text>
+  </g>
+
+  <text x="72" y="200" class="accent" style="font: 400 15px 'Inter','Helvetica Neue',Arial,sans-serif;">Building real-time data platforms for the energy transition</text>
+
+  <g transform="translate(1050,80)">
+    <circle cx="60" cy="60" r="52" fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.35" stroke-width="1.5"/>
+    <text x="60" y="76" text-anchor="middle" style="font: 700 44px 'Inter','Helvetica Neue',Arial,sans-serif; fill:#ffffff;">AB</text>
+  </g>
+</svg>
