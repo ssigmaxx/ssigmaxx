@@ -33,19 +33,7 @@ Technically I'm at home in Python, SQL, Azure, and everything real-time. Domain-
 
 <br/>
 
-## 🛠 What I'm working on
-
-**AI & Data Engineer · Energy & Sustainability sector** — *Oct 2025 – present*
-
-- 🏗 Designing an **Azure Databricks Lakehouse** on a Bronze / Silver / Gold medallion architecture for auditable, standards-compliant processing of energy-market time series.
-- ⚡ Replaced an Excel / VBA **MSCONS / EDIFACT** conversion with a deterministic Python tool — explicit Europe/Berlin DST handling and structured edge-case validation.
-- 🌱 Finalizing the **Prosumers pipeline** for generation & telemetry data: ingestion, refinement, temporal-integrity checks, acceptance-oriented quality gates.
-
-*Earlier, same role (Summer 2025):* real-time ingestion of PV, wind SCADA, battery BMS, smart-meter and weather data via **Kafka / Flink / Spark Structured Streaming** into Delta Lake · day-ahead & intraday load forecasts (Prophet / LSTM) feeding **reBAP** balancing calculations · FastAPI model serving on Docker/Kubernetes with MLflow-based MLOps · Power BI & Grafana dashboards for exergy KPIs and CO₂ savings.
-
-<br/>
-
-## 🎯 Focus areas
+## 🎯 Skills
 
 |  |  |
 |---|---|
