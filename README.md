@@ -109,10 +109,10 @@ My part — bookings, threaded comments, use-case design, unit testing.
 </td>
 <td width="50%" valign="top">
 
-**Embedded AI · WS 2026**
-Coursework on efficient inference for on-device ML.
-Hands-on with Keras pruning and 2:4 structured sparsity.
-Compression pipelines, sensitivity analysis, throughput trade-offs.
+**LifeOS**
+Personal life-management dashboard — habits, nutrition, sleep, journal, and goals in one place, with an AI coach.
+Stack — Next.js 16 · React 19 · TypeScript · Supabase · Tailwind CSS · Gemini API · Recharts · Web Push.
+Built solo — analytics & heatmaps, AI coach chat, push-notification reminders, offline support.
 
 </td>
 </tr>
