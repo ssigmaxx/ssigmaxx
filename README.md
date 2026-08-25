@@ -122,7 +122,7 @@ Built solo — analytics & heatmaps, AI coach chat, push-notification reminders,
 
 ## 🎓 Education
 
-- **B.Sc. Applied Artificial Intelligence** · TH Rosenheim · *2023 – 2026*
+- **Applied Artificial Intelligence** · TH Rosenheim · *2023 – 2026*
   Neural nets & deep learning · unsupervised & reinforcement learning · numerical optimization · software engineering · IT security · SAP HANA
 - **Computer Science + Statistics** · LMU Munich · *2022 – 2023*
 - **Feststellungsprüfung (T-course)** · Otto-von-Guericke Univ. Magdeburg · *2020 – 2021*
