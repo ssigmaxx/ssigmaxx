@@ -144,12 +144,12 @@ Compression pipelines, sensitivity analysis, throughput trade-offs.
 ## 📊 GitHub in numbers
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ssigmaxx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&icon_color=ffffff&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssigmaxx&layout=compact&hide_border=true&langs_count=8&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ssigmaxx&show_icons=true&hide_border=false&border_color=e5e7eb&count_private=true&include_all_commits=true&icon_color=111111&title_color=111111&text_color=374151&bg_color=ffffff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssigmaxx&layout=compact&hide_border=false&border_color=e5e7eb&langs_count=8&title_color=111111&text_color=374151&bg_color=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ssigmaxx&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&sideNums=FFFFFF&dates=9CA3AF&stroke=0D1117" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=ssigmaxx&hide_border=false&background=FFFFFF&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=374151&sideNums=111111&dates=6B7280&stroke=E5E7EB" height="170"/>
 </p>
 
 <br/>
